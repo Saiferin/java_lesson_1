@@ -2,14 +2,14 @@
 
 ## Краткое описание
 
-<25/10/2020> - <25/10/2020> было проведено функцилнальное тестирование приложения <KeyValidator>.
+25/10/2020 - 25/10/2020 было проведено функцилнальное тестирование приложения <KeyValidator>.
 
 На тестирование затрачено: 10 минут
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Saiferin/java_lesson_1/issues/1
-* https://github.com/Saiferin/java_lesson_1/issues/2
-* https://github.com/Saiferin/java_lesson_1/issues/3
+* [Bug report 1]:https://github.com/Saiferin/java_lesson_1/issues/3#issue-729024367
+* [Bug report 2]:https://github.com/Saiferin/java_lesson_1/issues/1#issue-729023609
+
 
 ## Описание процесса тестирования
 
